@@ -1,11 +1,11 @@
 # CTF总结
 
-- Web : [Web总结](https://github.com/lovelj520/CTF-Note/tree/master/Summary/Web)
-- Misc : [Misc总结](https://github.com/lovelj520/CTF-Note/tree/master/Summary/Misc)
-- Crypto : [Crypto总结](https://github.com/lovelj520/CTF-Note/tree/master/Summary/Crypto)
-- Real : [Real总结](https://github.com/lovelj520/CTF-Note/tree/master/Summary/Real)
-- Pwn : [Pwn总结](https://github.com/lovelj520/CTF-Note/tree/master/Summary/Pwn)
-- Reverse :[Reverse总结](https://github.com/lovelj520/CTF-Note/tree/master/Summary/Re)
+- Web : [Web总结](https://github.com/lovelj520/CTF-Note/tree/main/Summary/Web)
+- Misc : [Misc总结](https://github.com/lovelj520/CTF-Note/tree/main/Summary/Misc)
+- Crypto : [Crypto总结](https://github.com/lovelj520/CTF-Note/tree/main/Summary/Crypto)
+- Real : [Real总结](https://github.com/lovelj520/CTF-Note/tree/main/Summary/Real)
+- Pwn : [Pwn总结](https://github.com/lovelj520/CTF-Note/tree/main/Summary/Pwn)
+- Reverse :[Reverse总结](https://github.com/lovelj520/CTF-Note/tree/main/Summary/Re)
 ---
 
 

@@ -13,13 +13,13 @@
 ---
 ## 文件树
 
-- Summary ：[CTF总结](https://github.com/lovelj520/CTF-Note/tree/master/Summary)
-    - Web : [Web总结](https://github.com/lovelj520/CTF-Note/tree/master/Summary/Web)
-    - Misc : [Misc总结](https://github.com/lovelj520/CTF-Note/tree/master/Summary/Misc)
-    - Crypto : [Crypto总结](https://github.com/lovelj520/CTF-Note/tree/master/Summary/Crypto)
-    - Real : [Real总结](https://github.com/lovelj520/CTF-Note/tree/master/Summary/Real)
-    - Pwn : [Pwn总结](https://github.com/lovelj520/CTF-Note/tree/master/Summary/Pwn)
-    - Reverse : [Reverse总结](https://github.com/lovelj520/CTF-Note/tree/master/Summary/Re)
-- Platform : [CTF平台刷题记录](https://github.com/lovelj520/CTF-Note/tree/master/Platform)
-- Tools： [CTF常用脚本工具](https://github.com/lovelj520/CTF-Note/tree/master/tools)
-- Daily: [日常赛程以及赛后writeup](https://github.com/lovelj520/CTF-Note/tree/master/Daily)
+- Summary ：[CTF总结](https://github.com/lovelj520/CTF-Note/tree/main/Summary)
+    - Web : [Web总结](https://github.com/lovelj520/CTF-Note/tree/main/Summary/Web)
+    - Misc : [Misc总结](https://github.com/lovelj520/CTF-Note/tree/main/Summary/Misc)
+    - Crypto : [Crypto总结](https://github.com/lovelj520/CTF-Note/tree/main/Summary/Crypto)
+    - Real : [Real总结](https://github.com/lovelj520/CTF-Note/tree/main/Summary/Real)
+    - Pwn : [Pwn总结](https://github.com/lovelj520/CTF-Note/tree/main/Summary/Pwn)
+    - Reverse : [Reverse总结](https://github.com/lovelj520/CTF-Note/tree/main/Summary/Re)
+- Platform : [CTF平台刷题记录](https://github.com/lovelj520/CTF-Note/tree/main/Platform)
+- Tools： [CTF常用脚本工具](https://github.com/lovelj520/CTF-Note/tree/main/tools)
+- Daily: [日常赛程以及赛后writeup](https://github.com/lovelj520/CTF-Note/tree/main/Daily)
